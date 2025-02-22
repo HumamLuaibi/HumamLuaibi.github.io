@@ -1,4 +1,4 @@
-# humam younus luaibi
+# Data Scientist
 
 ### Eduaction 
 BSc Electromechanical Engineer 
