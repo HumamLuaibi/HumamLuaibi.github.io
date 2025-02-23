@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
@@ -10,10 +10,10 @@
             margin: 0;
             padding: 0;
             text-align: center;
-            background-color: #f4f4f4;
+            background-color: #FEFFF5;
         }
         header {
-            background-color: #333;
+            background-color: #2A704E;
             color: white;
             padding: 20px;
             font-size: 24px;
