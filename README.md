@@ -60,11 +60,10 @@
     <div class="container">
         <div class="sidebar">
             <img src="همام.jpg" alt="صورة شخصية">
-            <h1>Humam Luaibi</h1>
+            <h1>Data Analyst</h1>
             <p>Electromechanical Engineer</p>
-            <a href="#">GitHub</a>
+            <a href="https://github.com/HumamLuaibi">GitHub</a>
             <a href="https://www.linkedin.com/in/humam-younus-luaibi-a12075201/">LinkedIn</a>
-            <a href="#">Twitter</a>
         </div>
         <div class="content">
             <h2>عنّي</h2>
