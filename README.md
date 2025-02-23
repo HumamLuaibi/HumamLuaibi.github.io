@@ -46,7 +46,7 @@
         <h2>روابط التواصل</h2>
         <p>
             <a href="#">GitHub</a> | 
-            <a href="#https://www.linkedin.com/in/humam-younus-luaibi-a12075201/">LinkedIn</a> | 
+            <a href="https://www.linkedin.com/in/humam-younus-luaibi-a12075201/">LinkedIn</a> | 
             <a href="#">Twitter</a>
         </p>
     </div>
