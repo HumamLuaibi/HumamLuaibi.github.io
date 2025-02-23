@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
@@ -59,7 +59,7 @@
 <body>
     <div class="container">
         <div class="sidebar">
-            <img src="profile.jpg" alt="صورة شخصية">
+            <img src="همام.jpg" alt="صورة شخصية">
             <h1>Humam Luaibi</h1>
             <p>Electromechanical Engineer</p>
             <a href="#">GitHub</a>
