@@ -29,7 +29,7 @@
         footer {
             margin-top: 20px;
             padding: 10px;
-            background: #333;
+            background: #2A704E;
             color: white;
         }
     </style>
@@ -41,11 +41,12 @@
     </header>
     <div class="container">
         <h2>Electromechanical Enigneer </h2>
-        <p>اكتب نبذة قصيرة عن نفسك هنا...</p>
+        <p>Graduated From the Electromechanical Engineering Department, rank second on the department with an overall 82.7%, with hands-on experience in pipeline inspection robotics, and energy systems. Skilled 
+           in SolidWorks, AutoCAD, and robotics, with proven project management and teamwork abilities. I achieve a 5.5 band score in IELTS academic test.</p>
         <h2>روابط التواصل</h2>
         <p>
             <a href="#">GitHub</a> | 
-            <a href="#">LinkedIn</a> | 
+            <a href="#https://www.linkedin.com/in/humam-younus-luaibi-a12075201/">LinkedIn</a> | 
             <a href="#">Twitter</a>
         </p>
     </div>
