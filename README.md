@@ -27,7 +27,7 @@
             border-radius: 10px;
         }
         footer {
-            margin-top: 190px;
+            margin-top: 160px;
             padding: 10px;
             background: #2A704E;
             color: white;
